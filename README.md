@@ -52,7 +52,7 @@
 <p align= "center">
   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=ImMisterVish&theme=blue-green" />
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImMisterVish&theme=blue-green" />
-  <img height= "150" src="https://starchart.cc/{username}/{repo}.svg" />
+  <img height= "150" src="https://starchart.cc/ImMisterVish/{repo}.svg" />
 </p>
 
 ------
