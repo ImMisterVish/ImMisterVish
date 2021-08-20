@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mister Vish <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 <h3 align="center">A passionate Python and Front-End (and a beginner designer) developer from SriLanka</h3>
 
-<a href="https://cdn.discordapp.com/attachments/871409166336544799/877834690944438293/PicsArt_08-19-01.21.48.jpg" target="_blank" rel="download org image">![alt README header](https://github.com/zmcx16/zmcx16/blob/master/images/kanban1-demo.jpg?raw=true)</a>
+<a href="https://cdn.discordapp.com/attachments/871409166336544799/877834690944438293/PicsArt_08-19-01.21.48.jpg" target="_blank" rel="download org image">![alt README header](https://cdn.discordapp.com/attachments/871409166336544799/877834690944438293/PicsArt_08-19-01.21.48.jpg?raw=true)</a>
 
 - 🔭 I’m currently working on my **Python Course**
 
