@@ -19,7 +19,7 @@
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lauro_brant-1/)
 [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brantlauro/)
 [![image](https://img.shields.io/badge/-YouTube-red?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCnystaafXp0UgiqahHeQRcQ)
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:produtor.brantlauro@gmail.com)
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](kavishkadilhara43@gmail.com)
   
 </div>
 
