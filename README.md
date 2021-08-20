@@ -52,7 +52,3 @@
 </p>
 
 ------
-
-[BrantLauro](https://github.com/BrantLauro)
-
-Last Edited on: 05/08/2021
