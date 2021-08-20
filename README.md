@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Lauro <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 <h3 align="center">A passionate Python and Front-End (and a beginner designer) developer from Brazil</h3>
 
+# Hello there! 👋🏻 I am Arjun Meena! <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" />
+
+
 - 🔭 I’m currently working on my **Python Course**
 
 - 🌱 I’m currently learning **Python, HTML5 and CSS3**
