@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mister Vish <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 <h3 align="center">A passionate Python and JS (and a beginner designer) developer from SriLanka</h3>
 
-<a href="https://cdn.discordapp.com/attachments/871409166336544799/877834690944438293/PicsArt_08-19-01.21.48.jpg" target="_blank" rel="download org image">![alt README header](https://cdn.discordapp.com/attachments/871409166336544799/878125090502488134/PicsArt_08-20-09.25.03.png?raw=true)</a>
+<a href="https://cdn.discordapp.com/attachments/871409166336544799/877834690944438293/PicsArt_08-19-01.21.48.jpg" target="_blank" rel="download org image">![alt README header](https://cdn.discordapp.com/attachments/852754993626218516/878313858656251955/PicsArt_08-20-09.55.09.png?raw=true)</a>
 
 - 🔭 I’m currently working on my **Python Course**
 
