@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **front-end and back-end projects**
 
-- 📫 How to reach me: **brantlauro@gmail.com**
+- 📫 How to reach me: **kavishkadilhara43@gmail.com**
 
 - ⚡ What I like to do: **I like so much reading, basketball and skateboarding...and coding of course**
 
