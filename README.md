@@ -21,7 +21,7 @@
 [![image](https://img.shields.io/badge/-YouTube-red?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCnystaafXp0UgiqahHeQRcQ)
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](kavishkadilhara43@gmail.com)
 [![image](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199181968689)
-[![image](https://img.shields.io/badge/cfx-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://forum.cfx.re/u/mr_vish999)
+[![image](https://img.shields.io/badge/cfx-D14836?style=for-the-badge&logo=cfxlogoColor=white)](https://forum.cfx.re/u/mr_vish999)
 
 
   
